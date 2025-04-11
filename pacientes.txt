@@ -1,0 +1,20 @@
+Maria Sierra,appendicitis,A
+Ana Lopez,gripe,E
+Carlos Martinez,neumonía,B 
+Elena Gomez,migraña,D
+Fernando Diaz,fractura de brazo,C 
+Gabriela Ruiz,infección urinaria,C 
+Hugo Sanchez,dengue,B 
+Isabel Morales,bronquitis,C 
+Javier Torres,varicela,C
+Karla Fernandez,gastritis,D 
+Luis Castillo,hipertensión,B 
+Marta Jimenez,diabetes,B 
+Nicolas Herrera,asma,B 
+Olga Vargas,faringitis,D 
+Pablo Rojas,hepatitis,A 
+Raquel Mendez,anemia,C 
+Sergio Alvarez,alergia,E
+Sofía Armas,infarto,A 
+Carmen Guitierrez,hemorragia,A
+Carlos Soto,nausea,E
