@@ -11,16 +11,13 @@ public class Hospital {
     /**
      * Carga los pacientes desde un archivo de texto.
      * 
-     * @return Una lista de pacientes en el archivo para asegurarse que los esté leyendo
      */
     public ArrayList<Pacientes> cargarPacientesDesdeArchivo() {
         String nombreArchivo = "pacientes.txt"; 
-        
         LectorTxt lector = new LectorTxt(nombreArchivo, "");
         lector.leer();
 
         String contenido = lector.getContenidoA();
-        System.out.println("Contenido del archivo:\n" + contenido);
         String[] lineasArray = contenido.split("\n");
 
         ArrayList<Pacientes> listaPacientes = new ArrayList<>();
@@ -71,6 +68,7 @@ public class Hospital {
             System.out.println("5. Salir");
 
             int opcion = scanner.nextInt();
+            scanner.nextLine(); 
 
             switch (opcion) {
                 case 1:

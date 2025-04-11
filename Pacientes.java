@@ -2,7 +2,7 @@
  * Ale Sierra #24405
  * Clase que representa a un paciente con nombre, condición y prioridad.
  */
-public class Pacientes implements Comparable<Pacientes> {
+public class Pacientes implements Comparable <Pacientes> {
     private String nombre;
     private String condicion;
     private String letra; 
