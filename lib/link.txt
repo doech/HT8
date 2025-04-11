@@ -1,2 +1,0 @@
-LINK GITHUB: https://github.com/doech/HT8.git 
-LINK VIDEO: 
